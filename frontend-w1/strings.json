@@ -1,0 +1,15 @@
+{
+    "greeting": "Welcome to Paint Quote System",
+    "info": "Welcome to our site.",
+    "signinTitle":"Sign In",
+    "signinDescription":"Enter details to sign in your account",
+    "phoneNumber":"Phone Number",
+    "phoneNumberHint":"Enter your Phone number",
+    "password":"Password",
+    "passwordHint":"Enter your password",
+    "rememberLogin":"Remember Login",
+    "signIn":"Sign in",
+    "noAccount":"Don't have an account?",
+    "signUp":"Sign up",
+    "forgot":"Forgot?"
+  }
